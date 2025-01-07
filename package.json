@@ -1,0 +1,19 @@
+{
+  "name": "be-jobsapp",
+  "version": "1.0.0",
+  "description": "job portal app that allows users to create an acc,login",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LEE-DHARAN/be-jobsapp.git"
+  },
+  "author": "murali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LEE-DHARAN/be-jobsapp/issues"
+  },
+  "homepage": "https://github.com/LEE-DHARAN/be-jobsapp#readme"
+}
