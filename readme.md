@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Job Portal Application
 
 ## Description
@@ -47,3 +48,6 @@ Admin:
 - PUT /candidates/profile
 - DELETE /candidates/profile
 - GET /candidates/logout
+=======
+#description
+>>>>>>> 4e9cce41966e403d62b3bb533787889d5c5f252e
